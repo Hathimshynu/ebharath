@@ -1,0 +1,5 @@
+[21-Sep-2022 10:51:04 UTC] PHP Fatal error:  Cannot redeclare Welcome::__construct() in /home/ui7fum0l0gvd/public_html/bharatpay/application/controllers/Welcome.php on line 15
+[21-Sep-2022 10:51:17 UTC] PHP Fatal error:  Cannot redeclare Welcome::__construct() in /home/ui7fum0l0gvd/public_html/bharatpay/application/controllers/Welcome.php on line 15
+[21-Sep-2022 10:51:21 UTC] PHP Fatal error:  Cannot redeclare Welcome::__construct() in /home/ui7fum0l0gvd/public_html/bharatpay/application/controllers/Welcome.php on line 15
+[21-Sep-2022 10:58:20 UTC] PHP Fatal error:  Cannot redeclare Welcome::__construct() in /home/ui7fum0l0gvd/public_html/bharatpay/application/controllers/Welcome.php on line 15
+[21-Sep-2022 10:58:24 UTC] PHP Fatal error:  Cannot redeclare Welcome::__construct() in /home/ui7fum0l0gvd/public_html/bharatpay/application/controllers/Welcome.php on line 15
